@@ -84,7 +84,8 @@ For the above example, the downloadable spreadsheet will look like this:
 |Film Screening: Godzilla vs. Kong 2021              |Tuesday, August 13 |Brainerd       |Community Cinema        |
 |Programs and Training With YWCA Metropolitan Chicago|Tuesday, August 13 |Pullman        |Jobs and Careers        |
 
-# Libraries Used
+# Deppendencies
 
  - [Bootstrap v5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
  - [SheetJS](https://sheetjs.com/)
+ - [corsproxy.io](https://corsproxy.io/?)
