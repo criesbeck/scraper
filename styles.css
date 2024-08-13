@@ -1,0 +1,5 @@
+tbody tr:nth-child(2) td, 
+tbody tr:nth-child(1) td:nth-child(1),
+tbody tr:nth-child(1) td:nth-child(3) {
+ font-weight: bold;
+}
