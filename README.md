@@ -83,3 +83,8 @@ For the above example, the downloadable spreadsheet will look like this:
 |Tech Tuesdays: Blackstone Computer Class            |Tuesday, August 13 |Blackstone     |Computers and Technology|
 |Film Screening: Godzilla vs. Kong 2021              |Tuesday, August 13 |Brainerd       |Community Cinema        |
 |Programs and Training With YWCA Metropolitan Chicago|Tuesday, August 13 |Pullman        |Jobs and Careers        |
+
+# Libraries Used
+
+ - [Bootstrap v5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+ - [SheetJS](https://sheetjs.com/)
